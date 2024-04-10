@@ -1,0 +1,41 @@
+
+10001_hit.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_Skill_400_skill_4001003_hit_0_2
+  rotate: false
+  xy: 241, 273
+  size: 217, 237
+  orig: 217, 237
+  offset: 0, 0
+  index: -1
+2_Skill_400_skill_4001003_hit_0_3
+  rotate: false
+  xy: 460, 273
+  size: 199, 224
+  orig: 199, 224
+  offset: 0, 0
+  index: -1
+5_Skill_400_skill_4001003_hit_0_0
+  rotate: false
+  xy: 1, 273
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1
+1_Skill_400_skill_4001003_hit_0_4
+  rotate: false
+  xy: 661, 273
+  size: 193, 196
+  orig: 193, 196
+  offset: 0, 0
+  index: -1
+4_Skill_400_skill_4001003_hit_0_1
+  rotate: false
+  xy: 1, 1
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1

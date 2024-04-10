@@ -1,0 +1,27 @@
+
+6_10000101.png
+size: 1720,1339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/elapse
+  rotate: false
+  xy: 869, 488
+  size: 849, 849
+  orig: 849, 849
+  offset: 0, 0
+  index: -1
+image/name
+  rotate: false
+  xy: 2, 472
+  size: 865, 865
+  orig: 865, 865
+  offset: 0, 0
+  index: -1
+image/neiquan
+  rotate: false
+  xy: 869, 2
+  size: 484, 484
+  orig: 486, 486
+  offset: 1, 1
+  index: -1

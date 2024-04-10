@@ -1,0 +1,13 @@
+
+6_10000102.png
+size: 160,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/sword
+  rotate: false
+  xy: 2, 2
+  size: 156, 816
+  orig: 158, 818
+  offset: 1, 1
+  index: -1

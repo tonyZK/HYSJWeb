@@ -1,0 +1,76 @@
+
+10007_hit.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 1, 335
+  size: 141, 165
+  orig: 141, 165
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 168
+  size: 141, 165
+  orig: 141, 165
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 287, 1
+  size: 139, 165
+  orig: 139, 165
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 286, 335
+  size: 140, 165
+  orig: 140, 165
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 428, 1
+  size: 125, 157
+  orig: 125, 157
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 144, 1
+  size: 141, 165
+  orig: 141, 165
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 287, 168
+  size: 139, 165
+  orig: 139, 165
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 144, 335
+  size: 140, 165
+  orig: 140, 165
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 1
+  size: 141, 165
+  orig: 141, 165
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 144, 168
+  size: 141, 165
+  orig: 141, 165
+  offset: 0, 0
+  index: -1

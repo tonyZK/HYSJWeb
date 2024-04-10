@@ -1,0 +1,20 @@
+
+bgRotate.png
+size: 346,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ZSWCJ_CJJS_ZS_Guang
+  rotate: false
+  xy: 2, 2
+  size: 312, 312
+  orig: 346, 346
+  offset: 17, 17
+  index: -1
+images/ZSWCJ_CJJS_ZS_XX4
+  rotate: false
+  xy: 316, 286
+  size: 28, 28
+  orig: 34, 33
+  offset: 2, 4
+  index: -1
